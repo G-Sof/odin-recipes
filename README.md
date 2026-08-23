@@ -1,1 +1,1 @@
-# odin-recipes
+A basic HTML recipe website. In this project I'll show what I've learned so far following The Odin Project's Foundations curriculum; things like creating links to other websites' pages, the use of headings and paragraphs, ordered and unordered lists, images, crafting good commit messages, and some more things.
